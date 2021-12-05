@@ -1,9 +1,9 @@
 :root {
     --prixoy-bg: url(https://cdn.discordapp.com/attachments/782966382786248746/917117036310712360/693e5530a254077f1a11576fef88ceb6.jpg);
     --prixoy-home-icon: url(https://cdn.discordapp.com/attachments/782966382786248746/917117164622868480/prixoy.jpg);
-    --prixoy-color1: #1500d5;
-    --prixoy-color2: #0a173a;
-    --prixoy-color3: #3114b1;
+    --prixoy-color1: #d50000;
+    --prixoy-color2: #3a0a0a;
+    --prixoy-color3: #b11414;
   }
   
   #app-mount .container-1D34oG,
